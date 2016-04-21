@@ -1,0 +1,13 @@
+﻿1>------ Build started: Project: DatabaseDemo, Configuration: Debug Any CPU ------
+1>    Processing: obj\Debug\res\layout\main.xml
+1>    Processing: obj\Debug\res\values\strings.xml
+1>c:\users\sergi\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\ORM\SQLite.cs(241,15,241,39): warning CS0649: Field 'SQLiteConnection._preserveDuringLinkMagic' is never assigned to, and will always have its default value false
+1>  DatabaseDemo -> c:\users\sergi\documents\visual studio 2015\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.dll
+1>    Processing: obj\Debug\res\layout\main.xml
+1>    Processing: obj\Debug\res\values\strings.xml
+1>    Processing: obj\Debug\res\layout\main.xml
+1>    Processing: obj\Debug\res\values\strings.xml
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+
